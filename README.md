@@ -5,7 +5,7 @@
 ## Why Shiny?
 
 
-## VarbarPage -- My Favorite UI Set!!
+## NavbarPage -- My Favorite UI Set!!
 
 
 
