@@ -95,18 +95,3 @@ shinyServer(function(input, output) {
 
 ```
 
-
-## NavbarPage -- My Favorite UI Set!!
-
-Besides 
-
-
-
-## Leaflet -- This Map Thing Makes Your Project Cool!
-
-
-
-
-
-
-## Other Small Tips
