@@ -34,6 +34,7 @@ library(shiny)
 There are two basic sets for Shiny: 
 
 1. put `ui` and `server` in the same R file -- This suits more for small projects
+
 ```
 ui <- fluidPage(
    titlePanel("YOUR TITLE"),
@@ -63,6 +64,7 @@ shinyApp(ui = ui, server = server)
 ```
 
 1. seperate `ui.R` and `server.R` -- If you have a server with contains hundreds of lines, you might consider to seperate them.
+
 ```
 shinyUI(fluidPage(
   titlePanel("YOUR TITLE"), 
@@ -96,13 +98,15 @@ shinyServer(function(input, output) {
 
 ## NavbarPage -- My Favorite UI Set!!
 
+Besides 
+
 
 
 ## Leaflet -- This Map Thing Makes Your Project Cool!
 
 
 
-## Choose Your Theme -- Make Some Differences!!
+
 
 
 ## Other Small Tips
